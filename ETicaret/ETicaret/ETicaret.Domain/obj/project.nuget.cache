@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Vyq/q9I/Ur6QZlwpD0OzRWrh1F+sdjYsaudJym0NhBckreRearPKnVW+IHF24OFm4Ak1wGGDdQOGoeODeMS0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VNY005\\OneDrive\\Masaüstü\\.netcore\\ETicaret (1)\\ETicaret\\ETicaret.Domain\\ETicaret.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.7\\microsoft.aspnetcore.cryptography.internal.5.0.7.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.7\\microsoft.aspnetcore.cryptography.keyderivation.5.0.7.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.7\\microsoft.extensions.identity.core.5.0.7.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.7\\microsoft.extensions.identity.stores.5.0.7.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\VNY005\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

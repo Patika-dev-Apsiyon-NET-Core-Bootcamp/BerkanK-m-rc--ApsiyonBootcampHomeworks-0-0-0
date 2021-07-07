@@ -1,0 +1,13 @@
+﻿@model List<Category>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Kategori Adı</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Category_Name</td>
+        </tr>
+    }
+</table>

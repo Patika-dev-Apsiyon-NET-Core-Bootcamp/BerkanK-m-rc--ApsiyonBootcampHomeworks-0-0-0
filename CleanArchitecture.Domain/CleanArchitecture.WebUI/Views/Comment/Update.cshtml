@@ -1,0 +1,26 @@
+﻿@model CommentViewModel
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="col-4">
+            <div class="form-group">
+                <label>Yorum</label>
+                @Html.TextBoxFor(x => x.Comment)
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="form-group">
+                <label>Tarih</label>
+                @Html.TextBoxFor(x => x.CreatedAt)
+            </div>
+        </div>
+    </div>
+    <input type="hidden" value="1" name="UserId" />
+    <div class="row">
+        <div class="col-12">
+            <input type="submit" class="btn btn-success" value="Kaydet" />
+        </div>
+    </div>
+
+}

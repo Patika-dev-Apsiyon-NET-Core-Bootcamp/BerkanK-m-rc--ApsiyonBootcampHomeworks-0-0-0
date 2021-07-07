@@ -1,0 +1,8 @@
+﻿@model Category
+@using (Html.BeginForm("CategoryAdd", "Home", FormMethod.Post))
+{
+    @Html.Label("Kategori Adı")
+    @Html.TextBoxFor(x => x.Category_Name, new { @class = "form-control" });
+    <br />
+    <button class="btn btn-info">Kategori Ekle</button>
+}

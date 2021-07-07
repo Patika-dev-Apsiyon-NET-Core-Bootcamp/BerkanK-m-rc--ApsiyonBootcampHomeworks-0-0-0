@@ -1,0 +1,9 @@
+﻿@model Menu
+
+@using (Html.BeginForm("MenuAdd", "Home", FormMethod.Post))
+{
+    @Html.Label("Menu Adı")
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" });
+<br />
+<button class="btn btn-info">Menu Ekle</button>
+}

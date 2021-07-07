@@ -1,0 +1,9 @@
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.AssemblyInfoInputs.cache
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.AssemblyInfo.cs
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.RazorAssemblyInfo.cache
+C:\Users\VNY005\source\repos\IdenttyRestaurantManagement\IdenttyRestaurantManagement\obj\Debug\net5.0\IdenttyRestaurantManagement.RazorAssemblyInfo.cs

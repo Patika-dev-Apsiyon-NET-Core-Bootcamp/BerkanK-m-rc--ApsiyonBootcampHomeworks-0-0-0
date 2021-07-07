@@ -1,0 +1,14 @@
+﻿@model List<Menu>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Menu Adı</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+     
+            <td>@item.Name</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,14 @@
+﻿@model List<Restaurant>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Restaurant Adı</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.Name</td>
+        </tr>
+    }
+</table>
