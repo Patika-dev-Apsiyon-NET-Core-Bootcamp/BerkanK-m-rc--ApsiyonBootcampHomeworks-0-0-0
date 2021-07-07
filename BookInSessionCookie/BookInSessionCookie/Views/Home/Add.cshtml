@@ -1,0 +1,9 @@
+﻿@model BookViewModel
+
+<form method="post" action="/Home/Add">
+    <input type ="text" name = "Id" />
+    <input type ="text" name = "BookName" placeholder="Kitap İsmi" />
+    <input type ="text" name = "Author" placeholder="Kitap Yazarı"/>
+    <input type ="text" name = "YearOfPublish" placeholder="Yayınlanma Tarihi"/>
+    <button class="bg-success" type="submit">Kaydet</button>
+</form>

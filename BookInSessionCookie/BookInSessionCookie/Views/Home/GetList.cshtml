@@ -1,0 +1,23 @@
+﻿
+@model List<BookViewModel>
+<table class="table table-danger">
+    <tr>
+        <th>Id</th>
+        <th>İsim</th>
+        <th>Yazar</th>
+        <th>Yayın Tarihi</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.BookName</td>
+            <td>@x.Author</td>
+            <td>@x.YearOfPublish</td>
+        </tr>
+    }
+    <form asp-action="Favorite" asp-controller="Home" method="post">
+     <button class="btn btn-success" type="submit">Favoriye Ekle</button>
+    </form>
+</table>
+ 
