@@ -1,7 +1,7 @@
 -BookInSessionCookie </br>
 Session, Cookie yapısı kullanıldı. Exension metotların kullanım öğrenildi. Crud operasyonları gerçekleştirildi
 
--CleanArchitecture.Domain
+-CleanArchitecture.Domain </br>
 Cleam Architecture Katmanlı mimari, Code First, Entity Framework, Dependency İnjection gibi teknolojiler kullanıldı. Çoka çok ilişkili tabloda kayıt atma, silme güncelleme, listeleme işlemleri yapıldı. 
 
 -IdentityRestaurantManagement
